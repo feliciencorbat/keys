@@ -1,0 +1,63 @@
+titre$ Clé du genre Boletus s. str. en Europe selon la classification classique. Nicolas Schwab
+
+1,2$ Cuticule grasse
+1,cs2$ Cuticule tomenteuse
+1,0,n$ Certaines formes de Boletus edulis peuvent avoir la cuticule légèrement tomenteuse.
+
+1,0$ Chapeau de couleur blanche et le restant $ Boletus edulis f. albus
+1,2$ Chapeau d'une autre couleur
+
+2,3$ Chapeau brun rouge, sous Pinus, hyphes du piléipellis avec des pigments intracellulaires et incrustants dissolvables dans la potasse
+2, $ Chapeau de couleur différente, sous hôtes multiples, dont Pinus, hyphes du piléipellis avec des pigments intracellulaires
+
+3,0$ Chair et pores s'oxydant en bleu-vert $ Boletus pinophilus "var." viridicaerulescens
+3,4$ Chair et pores ne s'oxydant pas
+
+4,0$ Chapeau de couleur brun foncé $ Boletus pinophilus f. fuscoruber
+4,0$ Chapeau de couleur brun rougeâtre $ Boletus pinophilus
+4,0,n$ Sous feuillus existe Boletus pinophilus "var." frondosophilus
+
+5,6$ Chapeau de couleur jaune ou jaunâtre
+5,8$ Chapeau d'un autre couleur
+
+6,0$ Chapeau de couleur plus jaune que le type $ Boletus edulis "var." quercicola
+6,7$ Chapeau clairement et nettement jaune
+
+7,0$ Chapeau immaculé $ Boletus edulis f. citrinus
+7,0$ Chapeau maculé de roux, de fauve, de beige ou de brun $ Boletus edulis f. fulvomaculatus
+
+8,9$ Chapeau de couleur grisâtre, sous bouleaux
+8,10$ Chapeau d'une autre couleur, sous d'autres esssences
+
+9,0$ Basidiomes peu robustes, sous Betula nana dans les zones boréo-arctiques $ Boletus edulis f. arcticus
+9,0$ Basidiomes élancés, sous autres bouleaux en zone boréale ou tempérée $ Boletus edulis f. betulicola
+9,0,n$ Ces deux formes peuvent aisément être considérées comme synonymes.
+
+10,0$ Pied de couleur nettement rosée $ Boletus edulis f. roseipes
+10,11$ Pied de couleur blanche, beige ou légèrement rosée
+
+11,0$ Pied généralement fortement clavé, croissant sur sol sablonneux sous Pinus $ Boletus edulis "var." arenarius
+11,12$ Pied généralement non clavé, croissant dans des milieux différents
+
+12,0$ Chapeau brun très foncé, stipe fortement reticulé et épais, chapeau pruineux $ Boletus edulis f. subaereus
+13,14$ Chapeau plus clair, stipe généralement moins fortement réticulé et épais, chapeau non pruineux
+
+14,0$ Chapeau brun, marge du chapeau généralement lisse, caulocystides cylindriques ou un peu renflée dans leur partie inférieure, sous hôtes multiples, mais surtout Picea $ Boletus edulis
+14,0$ Chapeau brun grisâtre, marge du chapeau ridée, caulocystides lagéniformes, sous Pinus $ Boletus pinetorum
+14,0,n$ Boletus pinetorum entre dans la variabilité de Boletus edulis.///Chapeau marbré de blanc et brun, pores matures jaunes devenant rouge-brun, basidiomes robustes à très robustes, Amérique du Nord, présent sur les marchés européens $ Boletus edulis var. grandedulis
+
+15,0$ Chapeau violet, souvent plus pâle à la marge, stipe violet, fortement reticulé de blanc, Asie orientale, présent sur les marchés européens $ Boletus violaceofuscus
+15,16$ Chapeau de couleur différente, stipe de couleur différente, parfois fortement reticulé
+15,0,n$ D'autres bolets sont présents sur les marchés européens, notablement : Boletus barrowsii, rex-veris et fibrillosus.
+
+16,17$ Chapeau brun foncé, pruineux, surtout à la marge, stipe brun, fortement reticulé, thermophile
+16,18$ Chapeau brun, jaune ou gris
+
+17,0$ Chapeau roussâtre chaud, irrégulier, pied cylindro-clavé, sous Quercus en zone méditerranéenne $ Boletus aereus "var." mamorensis
+17,0$ Chapeau brun très foncé, presque noir, au moins par zones, sous feuillus en zones thermophiles $ Boletus aereus
+
+19,0$ Chapeau jaune, pied ventru, roux $ Boletus aereus f. citrinus 
+19,20$ Chapeau d'une autre couleur
+
+20,0$ Chapeau de couleur blanche dans la jeunesse, puis grise, pied parfois gris $ Boletus reticulatus "subsp." carpinaceus
+20,0$ Chapeau de couleur brune dans à maturité, pied brun clair à brun rosé $ Boletus reticulatus
