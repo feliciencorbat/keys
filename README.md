@@ -4,7 +4,7 @@
 
 ### Publiées
 
-* Clé du genre Albomagister en Europe - Gilles Corriol & Patricia Jargeat, traduite et adaptée par Nicolas Schwab
+* Clé du genre Albomagister en Europe - Corriol G. & Jargeat P., traduite et adaptée par Nicolas Schwab
 * Clé du genre Artomyces en Europe - Nicolas Schwab
 * Clé du genre Asterophora en Europe - Nicolas Schwab
 * Clé du genre Aureoboletus en Europe - Nicolas Schwab
