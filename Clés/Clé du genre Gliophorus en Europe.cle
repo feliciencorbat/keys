@@ -1,0 +1,36 @@
+titre$ Clé du genre Gliophorus en Europe. Nicolas Schwab.
+
+com$ Couleur primordiale : couleur du chapeau dans la jeunesse, laissant apparaître la couleur secondaire en décolorant
+com$ Couleur secondaire : couleur du chapeau à l'âge mature, souvent la plus visible
+
+1,2$ Lames nettement décurrentes
+1,4$ Lames adnées, parfois subdécurrentes
+
+2,0$ Couleur du chapeau et des lames grisâtre terne, stipe parfois coloré $ Gliophorus laetus f. griseopallidus
+2,3$ Couleur du chapeau et des lames de couleurs jaune orangé, orangée, carnée
+
+3,0$ Lames, sommet du pied et parfois marge du chapeau de couleur verdâtre, olivacée, grisâtre $ Gliophorus laetus f. pseudopsittacinus
+3,0$ Lames, sommet du pied et parfois marge du chapeau violacés $ Gliophorus laetus
+3,0,n$ Basidiome sans trace de violacé, entièrement orange $ Gliophorus laetus f. aurantiacus nom. prov.
+
+4,5$ Couleurs ternes dès le jeune âge (gris, blanc)
+4,6$ Couleurs vives, mais pouvant ternir en se décolorant avec l'âge
+
+5,0$ Basidiomes de couleur grise $ Gliophorus irrigatus
+5,0$ Basidiomes de couleur complètement blanche $ "Hygrocybe" irrigata f. alba
+
+6,7$ Surface du chapeau ruguleuse, peu gélifiée
+6,8$ Surface du chapeau lisse, parfois irrégulière, fortement gélifiée
+
+7,0$ Chapeau de couleur poupre, lames et sommet du pied blanc gris pourpré, base du pied jaune ou orangée, pied généralement épais $ Gliophorus reginae
+7,0$ Couleur secondaire du chapeau et du pied orange, parfois avec une couleur primordiale olivacé sombre, pied généralement fin, de couleur concolore au chapeau, plus clair à sa base $ Gliophorus europerplexus
+
+8,0$ Chapeau peu épais, de couleur ocre orangé, nettement strié, lames orange pâle, pied fin et élancé, sommet du pied rose, base du pied orangé clair $ Gliophorus mycenoides nom. prov. (Hygrophorus DB 88113, Hygrocybe sciophanoides ?)
+8,9$ Chapeau généralement plus épais, de couleur différente, parfois strié par transparence, lames de couleur différente, pied épais et de couleur différente
+
+9,0$ Couleur secondaire du chapeau rouge sang à rouge orangé vif, couleur primaire vert sombre disparaissant rapidement, lames et pieds concolores au chapeau $ Gliophorus sciophanus
+9,10$ Couleurs différentes
+
+10,0$ Couleur primaire du chapeau principalement bleue, vert-de-gris à cyan, avec parfois des traces de rose-rouge, couleur secondaire jaune à jaune orangé $ Gliophorus psittacinus f. cyaneus nom. prov. (Gliophorus DB 84279)
+2,0$ Couleur primaire du chapeau vert pomme à vert foncé. avec parfois des traces de rose-rouge, couleur secondaire jaune $ Gliophorus psittacinus
+2,0,n$ Similaire à Gliophorus psittacinus, mais avec comme couleur primaire du chapeau du brun ou de l'olivacé $ Gliophorus psittacinus f. olivaceus nom. prov. (DB 84305)

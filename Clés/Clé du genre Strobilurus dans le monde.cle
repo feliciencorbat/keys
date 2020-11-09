@@ -1,0 +1,47 @@
+titre$ Clé du genre Strobilurus dans le monde. Qin J. et al.
+
+com$ Traduction et adaptation : Nicolas Schwab
+com$ Bibliographie :
+com$ Qin J., Horak E., Popa F., Rexer K.-H., Li F & Yang Z.L. 2018. Species diversity, distribution patterns, and substrate specificity of Strobilurus. Mycologia 110(3): 584-604. DOI: 10.1080/00275514.2018.1463064
+
+1,0$ Sur les polyfollicules de Magnolia ou les capsules de Liquidambar $ Strobilurus conigenoides
+1,2$ Sur le bois ou les cônes de conifères
+1,0,n$ Sur débris ligneux de Cryptomeria japonica et Chamaecyparis obtusa, sans pseudorhize, Japon : "Strobilurus" ohshimae
+
+2,3$ Pleurocystides à paroi épaisse et largement clavées
+2,4$ Pleurocystides à paroi épaisse ou mince, non largement clavées
+
+3,0$ Basidiospores mesurant en majorité 4.5-6 × 2-3 μm, Asie orientale $ Strobilurus luchuensis
+3,0$ Basidiospores mesurant en majorité 6-8.5 × 3-4 μm, Europe $ Strobilurus stephanocystis
+
+4,5$ Sur cônes de Pinus armandii, Asie orientale
+4,6$ Sur cônes de Pinus ou Picea, Europe ou Amérique du Nord
+
+5,0$ Pleurocystides à paroi mince à légèrement épaisse $ Strobilurus orientalis
+5,0$ Pleurocystides à paroi très épaisse $ Strobilurus pachystidiatus
+
+6,7$ Apex des pleurocystides capité
+6,19$ Apex des pleurocystides aigu
+
+7,8$ Pleurocystides à paroi mince
+7,9$ Pleurocystides à paroi épaisse
+
+8,0$ Sur substrats de conifères divers, Amérique du Nord $ Strobilurus lignitilis
+8,0$ Sur cônes de Picea, Europe $ Strobilurus griseus
+
+9,0$ Sur cônes de Picea, basidiospores mesurant 5-7 × 3-4 μm, Europe $ Strobilurus esculentus
+9,10$ Sur cônes de Pinus ou Pseudotsuga, basidiospores de dimensions inférieures, Amérique du Nord
+9,0,n$ Similaire à Strobilurus esculentus, mais à chapeau complètement blanc : Strobilurus esculentus var. albus.
+
+10,0$ Basidiomes très petits, chapeau mesurant 1.5-3 mm de diamètre, sur cônes de Pinus ou de Pseudotsuga $ Strobilurus diminutivus
+10,0$ Basidiomes plus grands que ci-dessus, chapeau mesurant 5-20 mm de diamètre, sur cônes de Pseudotsuga $ Strobilurus trullisatus
+
+11,12$ Sur cônes de Pinus, Europe
+11,13$ Sur cônes de Picea, Amérique du Nord
+
+12,0$ Sur cônes de Pinus sylvestris, au printemps $ Strobilurus tenacellus
+12,0$ Sur cônes de Pinus peuce, en automne $ Strobilurus sp. MB-103062
+12,0,n$ Similaire à Strobilurus tenacellus, mais à chapeau complètement blanc : Strobilurus tenacellus f. lacteus.
+
+13,0$ Basidiospores mesurant 4-5.5 × 2.5-3 μm, chapeau mesurant 3-15 mm de diamètre, dans les habitats planitiaires $ Strobilurus occidentalis
+13,0$ Basidiospores mesurant 5.5-8 × 3-5 μm, chapeau mesurant 15-25 mm de diamètre, dans les habitats subalpins $ Strobilurus wyomingensis

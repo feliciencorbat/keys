@@ -1,0 +1,59 @@
+titre$ Clé du genre Termitomyces en Afrique de l'Ouest. Frøslev T.
+
+com$ Traduction et adaptation : Nicolas Schwab
+com$ Titre originel : Preliminary key to species of Termitomyces registered in Western Africa including the widespread T. eurhizus, the gigantic T. titanicus and the brownish T. singidensis from East Africa.
+com$ Lien vers la publication originelle : http://www.mycokey.com/BurkinaFaso/Termitomyces.htm
+
+1,2$ Chapeau de petite taille, diamètre < 4 cm et/ou bleuâtre
+1,4$ Chapeau de taille moyenne à grande, diamètre > 4 cm
+
+2,0$ Basidiome sans pseudorhize ; diamètre du chapeau mesurant jusqu'à 2 cm $ Termitomyces microcarpus
+2,3$ Basidiome avec une pseudorhize ; diamètre du chapeau supérieur
+
+3,0$ Chapeau avec des tons bleutés $ Termitomyces entolomoides
+3,0$ Chapeau sans tons bleutés $ Termitomyces medius
+
+4,5$ Chapeau avec un perforatorium prononcé et scrobiculé (avec indentations)
+4,6$ Chapeau sans perforatorium ou avec un perforatorium scrobiculé
+
+5,0$ Perforatorium fortement spiniforme $ Termitomyces spiniformis
+5,0$ Perforatorium mammiforme $ Termitomyces mammiformis
+
+6,0$ Perforatorium spiniforme $ Termitomyces clypeatus
+6,7$ Perforatorium non spiniforme
+
+7,8$ Chapeau avec des restes véliques prononcés
+7,9$ Chapeau sans restes véliques
+
+8,0$ Chapeau blanchâtre, sans perforatorium $ Termitomyces schimperi
+8,0$ Chapeau brunâtre, avec perforatorium $ Termitomyces singidensis
+
+9,0$ Pseudorhize très foncée, noirâtre $ Termitomyces eurhizus
+9,10$ Pseudorhize plus claire, pas noirâtre
+
+10,11$ Chapeau de grande taille, stipe annelé
+10,12$ Chapeau plus petit et/ou stipe non annelé
+
+11,0$ Chapeau de très grande taille (> 30 cm de diamètre), sans perforatorium prononcé $ Termitomyces titanicus
+11,0$ Chapeau de grande taille (généralement < 30 cm de diamètre), avec un perforatorium cylindro-clavé $ Termitomyces le-testui
+
+12,13$ Chapeau de grande taille, uniformément foncé, scrobiculé de manière concentrique ; stipe non annelé
+12,14$ Chapeau de grande ou petite taille, non scrobiculé ; stipe annelé ou non
+
+13,0$ Perforatorium differencié, mammiliforme ; rhizomorphes nombreux $ Termitomyces robustus
+13,0$ Perforatorium formant une continuation du chapeau, obtus ; rhizomorphes absents $ Termitomyces fuliginosus
+
+14,0$ Chapeau globuleux, de grande taille (15-20 cm de diamètre) ; pseudorhize brunâtre ; cystides dimorphiques $ Termitomyces globulus
+14,15$ Chapeau non globuleux, plus petit ; pseudorhize non brunâtre ; cystides non dimorphiques
+
+15,0$ Chapeau de couleur orange, de petite taille (jusqu'à 8 cm de diamètre) $ Termitomyces aurantiacus
+15,16$ Chapeau brunâtre, de plus grande taille (jusqu'à 12 cm de diamètre)
+
+16,0$ Stipe annelé $ Termitomyces striatus f. annulatus
+16,17$ Stipe non annelé
+
+17,0$ Chapeau brun ochracé $ Termitomyces striatus f. ochraceus
+17,18$ Chapeau d'une autre couleur
+
+18,0$ Chapeau gris à brun grisâtre $ Termitomyces striatus f. griseus
+18,0$ Chapeau brunâtre $ Termitomyces striatus

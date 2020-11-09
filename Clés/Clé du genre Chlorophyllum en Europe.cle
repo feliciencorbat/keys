@@ -1,0 +1,31 @@
+titre$ Clé du genre Chlorophyllum en Europe. Nicolas Schwab.
+com$ Remerciement spécial à Michael Loizides pour l'envoi de littérature essentielle à la réalisation de cette clé.
+rem$
+com$ Bibliographie
+com$ Ge. Z.-W., Jacobs A., Vellinga E.C., Sysouphanthong P., van der Walt R., Lavorato C., An Y.-F. & Yang Z.L. 2018. A multi-gene phylogeny of Chlorophyllum (Agaricaceae, Basidiomycota): new species, new combination and infrageneric classification. MycoKeys 32, pp. 65-90. DOI : 10.3897/mycokeys.32.23831
+com$ Loizides M., Alvarado P., Polemis E., Dimou D.M., Zervakis G.I., Thines M., Telle S., Konstantinou G. & Gube M. 2020. Multiple evolutionary origins of sequestrate species in the agaricoid genus Chlorophyllum. Mycologia 112(2): 400-422. DOI: 10.1080/00275514.2020.1712179
+com$ Sarasini M. & Contu M. 2001. Endoptychum arizonicum (Gasteromycetes) in Italia. Rivista de Mycologia 3: 247-251.
+
+1,2$ Fructification séquestrée
+1,5$ Fructification agaricoïde
+
+2,3$ Fructification sécotioïde, stipe présent, gléba labyrinthiforme à sub-lamellée $ Chlorophyllum agaricoides
+2,4$ Fructification gastéroïde, stipe absent, gléba partagée par une columelle
+
+3,0$ Spores ovoïdes-ellipsoïdales, Qm=1.3 sans l'apicule, mesurant 7.9-8.7 × 6.2-6.8 μm, pore germinatif plus ou moins évident, mais néanmoins présent $ Chlorophyllum agaricoides
+3,0$ Spores subglobuleuses à globuleuses, Qm = 1,1 maximum sans l'apicule, mesurant 10.9-11.8 × 9.3-10.1 μm, pore germinatif absent $ Chlorophyllum arizonicum ss. Sarasini & Contu
+
+4,0$ Cystides polymorphes, de largeur en majorité > 12 μm $ Chlorophyllum levantinum
+4,5$ Cystides peu polymorphes, de largeur en majorité < 12 μm $ Chlorophyllum lusitanicum
+
+5,0$ Sporée de couleur verte, lames vertes avec l’âge $ Chlorophyllum molybdites
+5,6$ Sporée d’une autre couleur, lames d’une autre couleur
+
+6,7$ Chéilocystides étroitement clavées à clavées
+6,8$ Chéilocystides sphéropédonculées à largement clavées, souvent caténées, anneau double
+
+7,0$ Calotte de couleur brun pourpre, squamules se décolorant en pourpré $ Chlorophyllum abruptibulbum
+7,0$ Calotte de couleur brune, squamules ne se décolorant pas en pourpré $ Chlorophyllum brunneum
+
+8,0$ Squamules du chapeau concolore au fond, brun-olivâtre à gris-brun $ Chlorophyllum olivieri
+8,0$ Squamules du chapeau brunes sur un fond blanc à crème distinctement plus clair $ Chlorophyllum rachodes
