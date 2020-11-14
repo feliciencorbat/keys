@@ -28,6 +28,7 @@
 * Clé du genre Auricularia en Europe - Nicolas Schwab
 * Clé du genre Boletus s. str. en Europe selon la classification classique - Nicolas Schwab
 * Clé du genre Baeospora en Europe - Nicolas Schwab
+* Clé du genre Chrysomphalina en Europe - Nicolas Schwab
 * Clé du genre Gliophorus en Europe - Nicolas Schwab
 * Clé du genre Porpolomopsis en Europe - Nicolas Schwab
 * Clé du genre Porpolomopsis dans le monde - Nicolas Schwab
